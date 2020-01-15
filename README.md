@@ -1,2 +1,2 @@
 # loginDemo
-login and registration done by on express framework using SQL data base
+login and registration done by express framework using SQL data base
