@@ -9,6 +9,7 @@
   "author": "nishat",
   "license": "ISC",
   "dependencies": {
+    "@hapi/joi": "^17.0.2",
     "bcrypt": "^3.0.7",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
